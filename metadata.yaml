@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '1192'
     url: http://www.gutenberg.org/2009/agents/1192
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27986#Judith-Lynn--A-Story-of-the-Sea
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
 identifiers:
